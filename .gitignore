@@ -98,3 +98,4 @@ data/
 datasets/
 livedoor-news-data/
 azure-ml/emotion_api_key.py
+tensorflow/MNIST_data/
