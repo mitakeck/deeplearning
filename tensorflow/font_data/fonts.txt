@@ -1,0 +1,10 @@
+futura,/Library/Fonts/Futura.ttc
+gillsans,/Library/Fonts/GillSans.ttc
+helvetica,/System/Library/Fonts/HelveticaNeueDeskInterface.ttc
+opitma,/System/Library/Fonts/Optima.ttc
+andalemono,/Library/Fonts/Andale Mono.ttf
+arial,/Library/Fonts/Arial.ttf
+impact,/Library/Fonts/Impact.ttf
+timenewroman,/Library/Fonts/Times New Roman.ttf
+trebuchetms,/Library/Fonts/Trebuchet MS.ttf
+verdana,/Library/Fonts/Verdana.ttf
